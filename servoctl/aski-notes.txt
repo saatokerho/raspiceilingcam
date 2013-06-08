@@ -1,0 +1,9 @@
+rajat:
+pan: 45..180
+tilt: 55...235
+
+pan tilt:
+keittiö: 50 210
+koneet: 48 147
+eteinen: 110 210
+telkku: 47 100
